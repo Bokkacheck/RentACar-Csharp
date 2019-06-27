@@ -1,0 +1,62 @@
+[
+  {
+    "$type": "ProjekatProba.GlavniAdmin, ProjekatProba",
+    "Jmbg": "1409997710038",
+    "Idbr": 1000,
+    "DatumRodjenja": "1997-09-14T00:00:00",
+    "BrojTelefon": "0643000112",
+    "Ime": "Bojan",
+    "Prezime": "Stojkovic",
+    "Lozinka": "lozinka97"
+  },
+  {
+    "$type": "ProjekatProba.Kupac, ProjekatProba",
+    "Jmbg": "1409997710038",
+    "Idbr": 1001,
+    "DatumRodjenja": "1973-04-15T00:00:00",
+    "BrojTelefon": "123456",
+    "Ime": "Goran",
+    "Prezime": "Stojkovic",
+    "Lozinka": "lozinka73"
+  },
+  {
+    "$type": "ProjekatProba.Administrator, ProjekatProba",
+    "Jmbg": "2510005710025",
+    "Idbr": 1002,
+    "DatumRodjenja": "2005-10-25T00:00:00",
+    "BrojTelefon": "0631235988",
+    "Ime": "Ivan",
+    "Prezime": "Stojkovic",
+    "Lozinka": "lozinka05"
+  },
+  {
+    "$type": "ProjekatProba.Kupac, ProjekatProba",
+    "Jmbg": "1409997710038",
+    "Idbr": 1003,
+    "DatumRodjenja": "1974-05-14T00:00:00",
+    "BrojTelefon": "123654",
+    "Ime": "Olivera",
+    "Prezime": "Stojkovic",
+    "Lozinka": "lozinka74"
+  },
+  {
+    "$type": "ProjekatProba.Administrator, ProjekatProba",
+    "Jmbg": "2401008710025",
+    "Idbr": 1004,
+    "DatumRodjenja": "2008-01-24T00:00:00",
+    "BrojTelefon": "0613535772",
+    "Ime": "Mihajlo",
+    "Prezime": "Zivkovic",
+    "Lozinka": "lozinka"
+  },
+  {
+    "$type": "ProjekatProba.Kupac, ProjekatProba",
+    "Jmbg": "1504003710256",
+    "Idbr": 1005,
+    "DatumRodjenja": "2003-04-15T00:00:00",
+    "BrojTelefon": "0626599874",
+    "Ime": "Natalija",
+    "Prezime": "Zivkovic",
+    "Lozinka": "lozinka1"
+  }
+]

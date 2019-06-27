@@ -1,0 +1,44 @@
+[
+  {
+    "PocetakRezervacije": "2019-04-20T00:00:00",
+    "KrajRezervacije": "2019-05-02T00:00:00",
+    "IdbrAuta": 100,
+    "IdbrKupca": 1001,
+    "Cena": 15600.0
+  },
+  {
+    "PocetakRezervacije": "2019-05-24T00:00:00",
+    "KrajRezervacije": "2019-06-21T00:00:00",
+    "IdbrAuta": 102,
+    "IdbrKupca": 1003,
+    "Cena": 69600.0
+  },
+  {
+    "PocetakRezervacije": "2019-05-17T00:00:00",
+    "KrajRezervacije": "2019-05-17T00:00:00",
+    "IdbrAuta": 103,
+    "IdbrKupca": 1003,
+    "Cena": 2600.0
+  },
+  {
+    "PocetakRezervacije": "2019-05-18T00:00:00",
+    "KrajRezervacije": "2019-12-05T00:00:00",
+    "IdbrAuta": 103,
+    "IdbrKupca": 1003,
+    "Cena": 525200.0
+  },
+  {
+    "PocetakRezervacije": "2019-06-04T00:00:00",
+    "KrajRezervacije": "2019-06-13T00:00:00",
+    "IdbrAuta": 111,
+    "IdbrKupca": 1001,
+    "Cena": 10000.0
+  },
+  {
+    "PocetakRezervacije": "2019-06-15T00:00:00",
+    "KrajRezervacije": "2019-06-15T00:00:00",
+    "IdbrAuta": 111,
+    "IdbrKupca": 1001,
+    "Cena": 1000.0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "IdbrAuta": 100,
+    "Marka": "Opel",
+    "Model": "Corsa",
+    "Godiste": 2002,
+    "Kubikaza": 1400,
+    "Pogon": "Prednji",
+    "VrstaMenjaca": "Manuelni",
+    "Karoserija": "Hecbek",
+    "Gorivo": "Benzin+Gas (TNG)",
+    "BrojVrata": "4/5"
+  },
+  {
+    "IdbrAuta": 111,
+    "Marka": "Opel",
+    "Model": "Corsa",
+    "Godiste": 2002,
+    "Kubikaza": 1400,
+    "Pogon": "Prednji",
+    "VrstaMenjaca": "Manuelni",
+    "Karoserija": "Hecbek",
+    "Gorivo": "Benzin+Gas (TNG)",
+    "BrojVrata": "4/5"
+  },
+  {
+    "IdbrAuta": 102,
+    "Marka": "Opel",
+    "Model": "Grand-Land-X",
+    "Godiste": 2012,
+    "Kubikaza": 2000,
+    "Pogon": "Prednji",
+    "VrstaMenjaca": "Automatski",
+    "Karoserija": "Hecbek",
+    "Gorivo": "Dizel",
+    "BrojVrata": "4/5"
+  },
+  {
+    "IdbrAuta": 103,
+    "Marka": "Audi",
+    "Model": "A3",
+    "Godiste": 2002,
+    "Kubikaza": 1600,
+    "Pogon": "Prednji",
+    "VrstaMenjaca": "Manuelni",
+    "Karoserija": "Karavan",
+    "Gorivo": "Benzin",
+    "BrojVrata": "2/3"
+  },
+  {
+    "IdbrAuta": 104,
+    "Marka": "Opel",
+    "Model": "Corsa",
+    "Godiste": 2002,
+    "Kubikaza": 1650,
+    "Pogon": "4X4",
+    "VrstaMenjaca": "Manuelni",
+    "Karoserija": "Hecbek",
+    "Gorivo": "Benzin+Gas (TNG)",
+    "BrojVrata": "2/3"
+  },
+  {
+    "IdbrAuta": 105,
+    "Marka": "Volkswagen",
+    "Model": "B5",
+    "Godiste": 2001,
+    "Kubikaza": 1400,
+    "Pogon": "4X4",
+    "VrstaMenjaca": "Manuelni",
+    "Karoserija": "Monovolumen",
+    "Gorivo": "Dizel",
+    "BrojVrata": "4/5"
+  },
+  {
+    "IdbrAuta": 106,
+    "Marka": "Audi",
+    "Model": "A4",
+    "Godiste": 2014,
+    "Kubikaza": 2200,
+    "Pogon": "Prednji",
+    "VrstaMenjaca": "Automatski",
+    "Karoserija": "Hecbek",
+    "Gorivo": "Benzin",
+    "BrojVrata": "4/5"
+  },
+  {
+    "IdbrAuta": 107,
+    "Marka": "Opel",
+    "Model": "Grand-Land-X",
+    "Godiste": 2012,
+    "Kubikaza": 2500,
+    "Pogon": "Prednji",
+    "VrstaMenjaca": "Manuelni",
+    "Karoserija": "Hecbek",
+    "Gorivo": "Benzin",
+    "BrojVrata": "4/5"
+  },
+  {
+    "IdbrAuta": 108,
+    "Marka": "Opel",
+    "Model": "Grand-Land-X",
+    "Godiste": 2015,
+    "Kubikaza": 2000,
+    "Pogon": "Prednji",
+    "VrstaMenjaca": "Automatski",
+    "Karoserija": "Hecbek",
+    "Gorivo": "Dizel",
+    "BrojVrata": "4/5"
+  },
+  {
+    "IdbrAuta": 109,
+    "Marka": "Opel",
+    "Model": "Astra",
+    "Godiste": 2012,
+    "Kubikaza": 2000,
+    "Pogon": "Prednji",
+    "VrstaMenjaca": "Automatski",
+    "Karoserija": "Hecbek",
+    "Gorivo": "Dizel",
+    "BrojVrata": "4/5"
+  }
+]

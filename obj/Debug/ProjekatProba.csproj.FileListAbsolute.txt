@@ -1,0 +1,40 @@
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.csprojAssemblyReference.cache
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.Properties.Resources.resources
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.csproj.GenerateResource.cache
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.csproj.CoreCompileInputs.cache
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\ProjekatProba.exe.config
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\ProjekatProba.exe
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\ProjekatProba.pdb
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.exe
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.pdb
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.csproj.CopyComplete
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\Newtonsoft.Json.11.0.0.0.Fakes.dll
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Bokkacheck\source\repos\ProjekatProba\bin\Debug\Newtonsoft.Json.11.0.0.0.Fakes.xml
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.LOGIN.resources
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.KorisnickaForma.resources
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.FormaAdministracija.resources
+C:\Users\Bokkacheck\source\repos\ProjekatProba\obj\Debug\ProjekatProba.FormRezervacije.resources
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\ProjekatProba.exe.config
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\ProjekatProba.exe
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\ProjekatProba.pdb
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\Newtonsoft.Json.11.0.0.0.Fakes.dll
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\bin\Debug\Newtonsoft.Json.11.0.0.0.Fakes.xml
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.csprojAssemblyReference.cache
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.Login.resources
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.FormaAdministracija.resources
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.KorisnickaForma.resources
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.FormRezervacije.resources
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.Properties.Resources.resources
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.csproj.GenerateResource.cache
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.csproj.CoreCompileInputs.cache
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.csproj.CopyComplete
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.exe
+C:\Users\Bokkacheck\Desktop\4 smestar VISER\TVP\ProjekatProba\obj\Debug\ProjekatProba.pdb
